@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore configuration files with sensitive information
+config/db_config.yaml
